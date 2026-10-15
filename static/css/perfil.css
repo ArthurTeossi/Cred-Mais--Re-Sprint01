@@ -47,8 +47,6 @@ body {
 
 /* Define o tamanho da logo. */
 .logo {
-    width: 29px;
-    height: 29px;
     object-fit: contain;
 }
 
@@ -105,17 +103,6 @@ body {
     margin-bottom: 23px;
 }
 
-/* Círculo azul do ícone. */
-.icone-titulo {
-    width: 34px;
-    height: 34px;
-    display: grid;
-    place-items: center;
-    border-radius: 50%;
-    color: white;
-    background: var(--azul);
-    font-size: 22px;
-}
 
 /* Título principal. */
 .titulo-pagina h1 {
